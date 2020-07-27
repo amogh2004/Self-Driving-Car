@@ -1,2 +1,1 @@
-# Self-Driving-Car
-Simple Self Driving Car AI
+# Self Driving Car
