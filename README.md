@@ -13,3 +13,12 @@ Implementation of a Self-Driving Car with [PyTorch](https://pytorch.org/docs/mas
 <hr>
 
 Works with [Python 2.7](https://www.python.org/download/releases/2.7/) only! 
+
+<hr>
+
+<span>
+  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.03.45%20PM.png" alt="Route1" width="450" height=225">
+</span>                                                                                                                      
+<span>
+  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.03.58%20PM.png" alt="Graph1" width="450" height="225">
+</span>
